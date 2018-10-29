@@ -7,3 +7,6 @@ What about idea?
 
 
 A new line for the new branch  PHPSTOMR-CRETED-BRACH
+
+AHOY!
+Somethig different!
