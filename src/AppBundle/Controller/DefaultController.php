@@ -14,6 +14,8 @@ class DefaultController extends Controller
     public function indexAction(Request $request)
     {
         //Just another manic Monday
+        //Just added a new feature for TICKET66
+
         // replace this example code with whatever you need
         $newvariable = 'idsfiodso';
         return $this->render('default/index.html.twig', [

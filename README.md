@@ -10,3 +10,6 @@ A new line for the new branch  PHPSTOMR-CRETED-BRACH
 
 AHOY!
 Somethig different!
+
+Some amazing code here
+We are in progress
