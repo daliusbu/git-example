@@ -15,6 +15,9 @@ class DefaultController extends Controller
     {
         //Just another manic Monday
         //Just added a new feature for TICKET66
+        // AMOTHER CHANGE TO HAVE SQUASH
+        // and yet a second change for the same sake of squash
+        // The tird change for the same squash
 
         // replace this example code with whatever you need
         $newvariable = 'idsfiodso';
