@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d054ca1-e942-4aa2-97fa-66384cbf7bbd" name="Default Changelist" comment="" />
+    <list default="true" id="6d054ca1-e942-4aa2-97fa-66384cbf7bbd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,36 +29,36 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="php" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PHP" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="14" />
-          <entry key="md" value="42" />
-          <entry key="php" value="77" />
+          <entry key="gitignore" value="15" />
+          <entry key="md" value="55" />
+          <entry key="php" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="42" />
-          <entry key="PHP" value="77" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Markdown" value="55" />
+          <entry key="PHP" value="83" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -63,14 +67,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="252">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <element signature="e#471#496#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -83,9 +99,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
       </list>
     </option>
   </component>
@@ -192,12 +208,12 @@
       <updated>1540195343778</updated>
       <workItem from="1540195345521" duration="2690000" />
       <workItem from="1540360771881" duration="45000" />
-      <workItem from="1540801355027" duration="1047000" />
+      <workItem from="1540801355027" duration="1859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3782000" />
+    <option name="totallyTimeSpent" value="4594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -231,11 +247,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#471#496#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
-            <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -245,16 +271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#471#496#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
